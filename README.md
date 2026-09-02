@@ -892,5 +892,5 @@ Estrategia Didáctica Recomendada
 •	Construcción de escenarios territoriales.
 Resultado de Aprendizaje
 Perfil:
-Al finalizar las 8 horas, el estudiante será capaz de formular una propuesta de ordenamiento de uso sostenible de tierras de gestión forestal mediante la integración de variables biofísicas, ecológicas y socioeconómicas utilizando herramientas SIG y criterios de sostenibilidad para el contexto altoandino de Puno, articulando posteriormente este trabajo con la zonificación agroecológica para quinua, pastos cultivados, sistemas silvopastoriles y restauración de ecosistemas degradados.
+Al finalizar la segunda unidad el estudiante será capaz de formular una propuesta de ordenamiento de uso sostenible de tierras de gestión forestal mediante la integración de variables biofísicas, ecológicas y socioeconómicas utilizando herramientas SIG y criterios de sostenibilidad para el contexto altoandino de Puno, articulando posteriormente este trabajo con la zonificación agroecológica para quinua, pastos cultivados, sistemas silvopastoriles y restauración de ecosistemas degradados.
 
