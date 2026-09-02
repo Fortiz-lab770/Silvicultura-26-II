@@ -5,6 +5,12 @@ CURSO DE SILVICULTURA EN AGRONOMÍA
 "ZONIFICACIÓN DE APTITUD DE TIERRAS FORESTALES PARA EL ORDENAMIENTO DEL BOSQUE"
 Docente: Dr. Flavio Ortiz C.
 Puno, agosto 25 2026
+PRIMER UNIDAD
+
+
+
+
+SEGUNDA UNIDAD
 
 Para un curso de Silvicultura en Agronomía de la Universidad Nacional del Altiplano (UNA-Puno), el tema "Zonificación de Aptitud de Tierras Forestales para el Ordenamiento Agroecológico" puede desarrollarse en 8 horas académicas (4 sesiones de 2 horas) combinando fundamentos conceptuales, análisis espacial y aplicación práctica al contexto altoandino de Puno.
 Estructura Funcional (8 horas)
