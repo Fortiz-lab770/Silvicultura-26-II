@@ -600,8 +600,6 @@ Objetivos
 •	Aplicar criterios de evaluación multicriterio.
 •	Construir modelos de aptitud.
 
-
-
 Contenidos
 3.1 Especies forestales objetivo
 Exóticas
