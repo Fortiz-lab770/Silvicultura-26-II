@@ -522,7 +522,7 @@ Al terminar esta unidad, el alumno debería ser capaz de:
 
 SEGUNDA UNIDAD
 
-Para un curso de Silvicultura en Agronomía de la Universidad Nacional del Altiplano (UNA-Puno), el tema "Zonificación de Aptitud de Tierras Forestales para el Ordenamiento Agroecológico" puede desarrollarse en 8 horas académicas (4 sesiones de 2 horas) combinando fundamentos conceptuales, análisis espacial y aplicación práctica al contexto altoandino de Puno.
+Para un curso de Silvicultura en Agronomía de la Universidad Nacional del Altiplano (UNA-Puno), el tema "Zonificación de Aptitud de Tierras Forestales para el Ordenamiento Agroecológico" puede desarrollarse en 8 horas académicas, combinando fundamentos conceptuales, análisis espacial y aplicación práctica al contexto altoandino de Puno.
 Estructura Funcional
 Unidad: Zonificación de Aptitud de Tierras Forestales para el Ordenamiento Agroecológico o SAF
 Competencia
