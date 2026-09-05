@@ -745,6 +745,7 @@ Diagnóstico Territorial para la Gestión Forestal
 Objetivos
 •	Identificar variables para el ordenamiento forestal.
 •	Interpretar información espacial temática.
+
 Contenidos
 2.1 Componentes biofísicos
 Clima
