@@ -519,7 +519,6 @@ Al terminar esta unidad, el alumno debería ser capaz de:
 •	identificar amenazas asociadas al cambio climático;
 •	proponer tratamientos silviculturales;
 •	utilizar información espacial para apoyar decisiones de manejo forestal.
-Una recomendación didáctica para su curso: por tratarse de alumnos de X semestre, aprovecharía esta primera unidad para introducir desde el comienzo el concepto de "silvicultor tradicional → silvicultor moderno". Así, el estudiante comprende que ya no basta con conocer especies y técnicas de poda o raleo: debe ser capaz de analizar el bosque como un sistema ecológico, productivo y espacial, incorporando SIG, teledetección, datos climáticos y, progresivamente, inteligencia artificial.
 
 SEGUNDA UNIDAD
 
